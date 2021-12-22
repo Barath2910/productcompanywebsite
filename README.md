@@ -85,13 +85,13 @@ Home code:
 ## OUTPUT:
 
 ### Home code:
-![output](./home.jpg)
+![output](./home.JPG)
 ### Product code:
-![output](./products.jpg)
+![output](./products.JPG)
 ### People code:
-![output](./people.jpg)
+![output](./people.JPG)
 ### Contact us:
-![output](./contact.jpg)
+![output](./contact.JPG)
 
 ## Result:
 
