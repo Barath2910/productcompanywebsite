@@ -37,6 +37,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 Home code:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -80,8 +81,10 @@ Home code:
     </div>
   </body>
 </html>
+```
 
 Product code:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -103,20 +106,90 @@ Product code:
         <div class="productcontent">    
           <h1>Our Premium Products</h1>
           <div class="productitems">
-              <div class="productitem"> 
-                  <div class="itemimage">
-                  <img src="/static/img/car.jpg" alt="product image">
-                  </div>
-                  <div class="itemname">Ferrari</div>
-                  <div class="itemprice">Price: Rs.8000000.00 </div>
+            <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/car.jpg" alt="product image">
               </div>
-              <div class="productitem"> 
-                  <div class="itemimage">
-                  <img src="/static/img/car1.jpg"  alt="product image">
-                  </div>
-                  <div class="itemname">Lamborgini</div>
-                  <div class="itemprice">Price: Rs.10000000.00 </div>
+              <div class="itemname">Ferrari</div>
+              <div class="itemprice">Price: Rs.8000000.00 </div>
+          </div>
+          <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/car1.jpg"  alt="product image">
               </div>
+              <div class="itemname">BMW</div>
+              <div class="itemprice">Price: Rs.10000000.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/car2.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Lamborgini</div>
+            <div class="itemprice">Price: Rs.20000000.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/car3.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Audi</div>
+            <div class="itemprice">Price: Rs.70000000.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/car4.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Bentley</div>
+            <div class="itemprice">Price: Rs.60000000.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/car5.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Nissan edge</div>
+            <div class="itemprice">Price: Rs.1500000.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/car6.jpg" alt="product image">
+            </div>
+            <div class="itemname">Cadillac</div>
+            <div class="itemprice">Price: Rs.50000000.00 </div>
+        </div>
+        <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/car7.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Nissan</div>
+            <div class="itemprice">Price: Rs.700000.00 </div>
+        </div>
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/car8.jpg"  alt="product image">
+          </div>
+          <div class="itemname">porsche</div>
+          <div class="itemprice">Price: Rs.110000000.00 </div>
+        </div>
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/car9.jpg"  alt="product image">
+          </div>
+          <div class="itemname">Mini copper</div>
+          <div class="itemprice">Price: Rs.4000000.00 </div>
+        </div>
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/car10.jpg"  alt="product image">
+          </div>
+          <div class="itemname">bugatti</div>
+          <div class="itemprice">Price: Rs.80000000.00 </div>
+        </div>
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/car11.jpg"  alt="product image">
+          </div>
+          <div class="itemname">Shift</div>
+          <div class="itemprice">Price: Rs.800000.00 </div>
+        </div>
           </div>
           </div>        
       </div>
@@ -127,7 +200,10 @@ Product code:
   </body>
 </html>
 
+```
+
 People code:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -193,8 +269,9 @@ People code:
      </div>
    </body>
  </html>
-
+```
 Contact us code:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -244,6 +321,7 @@ Contact us code:
     </div>
   </body>
 </html>
+```
 
 
 ## OUTPUT:
