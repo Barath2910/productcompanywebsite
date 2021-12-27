@@ -328,12 +328,16 @@ Contact us code:
 
 ### Home code:
 ![output](./home.JPG)
+![output](./home1.png)
 ### Product code:
 ![output](./products.JPG)
+![output](./products1.png)
 ### People code:
 ![output](./people.JPG)
+![output](./people1.png)
 ### Contact us:
 ![output](./contact.JPG)
+![output](./contact1.png)
 
 ## Result:
 
