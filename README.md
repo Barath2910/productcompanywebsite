@@ -335,7 +335,7 @@ Contact us code:
 ### People code:
 ![output](./people.JPG)
 ![output](./people1.png)
-### Contact us:
+### Contact us code:
 ![output](./contact.JPG)
 ![output](./contact1.png)
 
